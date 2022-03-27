@@ -13,6 +13,7 @@ public class JedisDemo {
     public static void main(String[] args) {
         insertCode("123123");
 //        verifyCode("123123","585014");
+        System.out.println("hello");
     }
 
     public void test1(){
